@@ -113,7 +113,7 @@ exit.addActionListener(new ActionListener() {
 
 ## Screenshot
 
-![Tampilan Aplikasi](screenshot.png)
+![S]([screenshot.png](https://github.com/atmafathulhadi/Tugas2-CekSuhu/blob/main/S.png))
 
 ---
 
